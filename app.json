@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Empresa de Proyectos de Software",
+    "slug": "empresa-proyectos-software",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark"
+  }
+}
