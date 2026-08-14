@@ -8,7 +8,7 @@
     "ios": "expo start --ios"
   },
   "dependencies": {
-    "expo": "57.0.4",
+    "expo": "54.0.36",
     "expo-status-bar": "57.0.0",
     "react": "19.2.3",
     "react-native": "0.86.0"
